@@ -51,6 +51,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define LOCKING_RESYNC_ENABLE
 
 #define RGBLIGHT_ANIMATIONS
+#define RGBLIGHT_EFFECT_RAINBOW_SWIRL
 
 #define WS2812_LED_N 14
 #define RGBLED_NUM WS2812_LED_N
